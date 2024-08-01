@@ -18,7 +18,8 @@ Server Site -> https://prime-scope-server.vercel.app
 - Real-Time Job Updates
 - Notification Alerts
 
-## Dependencies
+
+## Dependencies for Frontend
 
 - axios
 - firebase
@@ -34,3 +35,12 @@ Server Site -> https://prime-scope-server.vercel.app
 - react-tabs
 - reactjs-popup
 - sweetalert2
+
+## Dependencies for Backend
+- cookie-parser
+- cors
+- dotenv
+- express
+- jsonwebtoken
+- mongodb
+

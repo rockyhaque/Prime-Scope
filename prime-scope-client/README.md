@@ -1,6 +1,5 @@
 # Prime Scope Client
 
-`Assignment_ID:` assignment_category_0003
 
 Prime Scope is a job platform designed to connect jobs with clients seeking high-quality services. This repository contains the client-side codebase for the platform.
 
